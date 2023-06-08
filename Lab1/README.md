@@ -4,3 +4,5 @@
 Загальне завдання: розробити клієнтську частину Web-додатку.
 
 Інструменти розробки: VS Code, Javascript/VueJS, Twitter Bootstrap, Material UI, NodeJS, diagram.net
+
+Google Drive: https://docs.google.com/document/d/1Gem7HAjwOPjOeMovvc35cLo43k9beslP/edit?usp=sharing&ouid=107154107498754713052&rtpof=true&sd=true
